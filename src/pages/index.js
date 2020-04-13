@@ -15,7 +15,7 @@ export default () => (
     <div class="header">
       <header>
         <img
-          src={"logo.jpg"}
+          src={"../logo.jpg"}
           alt="समर्थ भारत"
           style={{ width: 150, height: 150 }}
         />{" "}
@@ -36,7 +36,7 @@ export default () => (
     </div>
     <div class="raw">
       <div class="column">
-        <img src={"SMC.jpg"} alt="समर्थ भारत" />
+        <img src={"../SMC.jpg"} alt="समर्थ भारत" />
       </div>
       <div class="column">
         <h3>क्या एक नन्हा शिशु, महा मानव, दिव्य पुरुष बन सकता है?</h3>
