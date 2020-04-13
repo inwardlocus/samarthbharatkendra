@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "samarthbharatkendra",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Samarth Bharat Kendra",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inwardlocus/samarthbharat"
+    "url": "https://github.com/inwardlocus/samarthbharatkendra"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
