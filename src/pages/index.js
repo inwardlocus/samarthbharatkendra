@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { rhythm, scale } from "../utils/typography"
-import Img from "gatsby-image"
 
 export default () => (
   <div
@@ -66,14 +65,3 @@ export default () => (
     </div>
   </div>
 )
-export const query = graphql`
-  query MyQuery {
-    file(relativePath: { eq: "" }) {
-      childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-  }
-`
