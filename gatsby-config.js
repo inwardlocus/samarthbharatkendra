@@ -23,12 +23,13 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/src/data/`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `image`,
+    //     path: `${__dirname}/src/data/`,
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-typography`,
       options: {
